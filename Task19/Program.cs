@@ -22,4 +22,4 @@ if (number.Length == 5)
 {
   Palindrom(number);
 }
-else Console.WriteLine("Введите правильное число!");
+else Console.WriteLine("Введите пятизначное число!");
