@@ -5,5 +5,5 @@
 // 918 -> 1
 
 int number = new Random().Next(99,1000);
-Console.WriteLine(number);
+Console.WriteLine(number);  //можно вообще и без этого, уложив код вообще в две строки, если нам не сильно важно видеть само число рандомное
 Console.WriteLine(number/10%10);
